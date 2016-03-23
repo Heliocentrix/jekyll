@@ -13,4 +13,4 @@ hi: asdasd
 
 [My helpful screenshot](/assets/screenshot.jpg)
 <a href="/assets/screenshot.jpg">My helpful screenshot</a>
-{{site.url}}
+{{site.github.url}}
